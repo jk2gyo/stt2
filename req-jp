@@ -1,0 +1,11 @@
+{
+  "config": {
+      "encoding":"FLAC",
+      "sampleRateHertz": 16000,
+      "languageCode": "ja-JP",
+      "enableWordTimeOffsets": false
+  },
+  "audio": {
+      "uri":"gs://stt1-204606.appspot.com/au2/2017-11-02-14-56-48.flac"
+  }
+}
