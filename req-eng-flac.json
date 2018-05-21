@@ -6,6 +6,6 @@
       "enableWordTimeOffsets": false
   },
   "audio": {
-      "uri":"gs://cloud-samples-tests/speech/brooklyn.flac"
+      "uri":"gs://stt1-204606.appspot.com/au2/2017-11-02-14-56-48.flac"
   }
 }
